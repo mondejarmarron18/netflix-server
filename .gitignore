@@ -1,7 +1,2 @@
 /node_modules
-
-#PRODUCTION BUILD
-/build
-
-#ENVINRONMENT VARIABLE
-.env
+/dist
